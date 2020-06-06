@@ -17,6 +17,9 @@
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+	
+	<link rel="icon" type="image/png" href="world.png"/>
+	<title>Precautions</title>
 </head>
 <body>
 
@@ -28,7 +31,7 @@
 		<div class="collapse navbar-collapse" id="navbarText">
 		  <ul class="navbar-nav mr-auto">
 			<li class="nav-item active">
-			  <a class="nav-link" href="precautions.html" style="font-size: 23px;"> Precautions <span class="sr-only">(current)</span></a>
+			  <a class="nav-link" href="precautions.php" style="font-size: 23px;"> Precautions <span class="sr-only">(current)</span></a>
 			</li>
 			<li class="nav-item">
 			  <a class="nav-link" href="#"  style="font-size: 23px;"> Contact </a>
